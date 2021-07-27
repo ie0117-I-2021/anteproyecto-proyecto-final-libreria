@@ -5,7 +5,6 @@
 - Carnet: B61512
 
 # Propuesta:
-Crear una libreria de algebra lineal que contenga:
-- primera opcion (sin desarrollar por el momento)
-- segunda opcion (sin desarrollar por el momento)
-- tercera opcion (sin desarrollar por el momento)
+Crear una libreria de algebra lineal que contenga las siguientes operaciones:
+- Operaciones con matrices: suma, resta, multiplicacion, division, norma, determinante, traza de una matriz, elementos de la diagonal, inversa y seudo inversa.
+- Utilizar esta libreria para implementar un filtro gaussiano a una imagen.
