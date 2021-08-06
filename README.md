@@ -11,4 +11,4 @@ Crear una libreria de algebra lineal que contenga las siguientes operaciones:
 
 
 
-[video de presentacion](https://www.youtube.com/watch?v=ZQnMuC3SR4M&t=20s)
+https://www.youtube.com/watch?v=ZQnMuC3SR4M&t=20s
