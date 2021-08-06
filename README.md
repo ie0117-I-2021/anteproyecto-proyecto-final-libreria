@@ -16,4 +16,4 @@ Design a linear algebra library, with seven main functions that perform operatio
 
 
 # Presentation and demonstration video
-[VIDEO](ttps://www.youtube.com/watch?v=ZQnMuC3SR4M&t)
+[link video](https://www.youtube.com/watch?v=ZQnMuC3SR4M&t=20s)
