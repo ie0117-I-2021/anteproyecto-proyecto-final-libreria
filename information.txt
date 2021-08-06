@@ -1,0 +1,12 @@
+Student: Carlos Alberto Caravaca Mora
+ID: B61512
+
+Compilation instruction:
+ - > make
+ - Executable crated:
+ - > ./matrix_generator
+ - To redo the compilation, you can do first:
+ - > make clean
+
+Presentation and demonstration video
+https://youtu.be/ZQnMuC3SR4M
